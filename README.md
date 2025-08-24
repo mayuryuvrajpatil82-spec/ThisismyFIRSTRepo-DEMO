@@ -1,3 +1,4 @@
 # ThisismyFIRSTRepo-DEMO
-this is my first work on the github making the demo repo and using it
+this is my first work on the github making the demo repo and using it.
+<br>
 User-Mayur Patil
